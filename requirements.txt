@@ -5,3 +5,4 @@ python-dateutil==2.8.2
 pytz>=2022.2.1,<2022.3
 six>=1.16.0,<1.17
 tenacity==8.1.0
+django>=4.1.1,<4.2
